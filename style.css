@@ -494,7 +494,7 @@ footer .social-links {
 }
 
 /*=== RESPONSIVO =================================*/
-@media (min-width: 1024px) {
+@media (min-width: 900rem) {
 
   /*=== GERAL =================================*/
   body {
@@ -502,7 +502,7 @@ footer .social-links {
   }
 
   .wrapper {
-    width: min(112rem, 100%);
+    width: min(80rem, 100%);
     display: grid;
   }
 
