@@ -1,5 +1,7 @@
 /*=== GERAL =================================*/
 * {
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
 }
 
@@ -500,7 +502,7 @@ footer .social-links {
   }
 
   .wrapper {
-    width: min(100rem, 100%);
+    width: min(112rem, 100%);
     display: grid;
   }
 
