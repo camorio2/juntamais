@@ -45,7 +45,7 @@ body {
 }
 
 .wrapper {
-  width: min(30rem, 100%);
+  width: min(40rem, 100%);
   margin-inline: auto;
   padding-inline: 2.4rem;
 }
@@ -500,7 +500,7 @@ footer .social-links {
   }
 
   .wrapper {
-    width: min(80rem, 100%);
+    width: min(130rem, 100%);
     display: grid;
   }
 
